@@ -7,7 +7,7 @@
 The **Rapido Data Analysis Project** is a database management system designed to simulate the operations of an online taxi service. The main goal of this project is to provide a thorough database schema and SQL queries to manage driver allocation, ride booking, ride cancelation, booking status and payment tracking, among other company operations. Managing relational data, enforcing relationships, and running complex queries to glean valuable business insights are all demonstrated in this project.
 
 
-`
+```sql
 -- Create table --
 
 CREATE TABLE rapido (
@@ -33,7 +33,7 @@ CREATE TABLE rapido (
     Vehicle_Images TEXT
 );
 
-`
+```
 
 
 ---
@@ -120,7 +120,7 @@ CREATE TABLE rapido (
 ## **visualization  (Power BI) Dashboard **
 
 **Overall**
-![image alt](https://github.com/shubhamwasnik199/SQL_Project-Monday_Coffee_Expantion-Data_Analysis/blob/b9c6cbfc8d456041b85820c0a0da3063198db750/1.png)
+![image alt](https://github.com/shubhamwasnik199/Rapido_Bookings_Data_Analysis_Projects_SQL-Power_BI/blob/2cb01153924b26664f69132fd640109d2a9149d0/Overall.jpg)
 
 **Vehicle Type**
 ![image alt](https://github.com/shubhamwasnik199/SQL_Project-Monday_Coffee_Expantion-Data_Analysis/blob/b9c6cbfc8d456041b85820c0a0da3063198db750/1.png)
