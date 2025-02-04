@@ -1,6 +1,6 @@
 # Rapido Bookings Data Analysis Project- SQL Power BI 🚖
 
-![image alt](https://github.com/shubhamwasnik199/SQL_Project-Monday_Coffee_Expantion-Data_Analysis/blob/b9c6cbfc8d456041b85820c0a0da3063198db750/1.png)
+![image alt](https://github.com/shubhamwasnik199/Rapido_Bookings_Data_Analysis_Projects_SQL-Power_BI/blob/76a5ce468506dd19ced1da558740b9ffb91b4187/Rapido%20logo.webp)
 
 
 ## **Project Overview**
