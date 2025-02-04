@@ -96,16 +96,17 @@ CREATE TABLE rapido (
 ![image alt](https://github.com/shubhamwasnik199/Rapido_Bookings_Data_Analysis_Projects_SQL-Power_BI/blob/2cb01153924b26664f69132fd640109d2a9149d0/Overall.jpg)
 
 **Vehicle Type**
-![image alt](https://github.com/shubhamwasnik199/Rapido_Bookings_Data_Analysis_Projects_SQL-Power_BI/blob/main/Vehicle%20Type.jpg)
+![image alt](https://github.com/shubhamwasnik199/Rapido_Bookings_Data_Analysis_Projects_SQL-Power_BI/blob/c80388d06380652473dd4962d680411f93e24418/Vehicle%20Type.jpg)
 
 **Revenue**
-![image alt](https://github.com/shubhamwasnik199/SQL_Project-Monday_Coffee_Expantion-Data_Analysis/blob/b9c6cbfc8d456041b85820c0a0da3063198db750/1.png)
+![image alt](https://github.com/shubhamwasnik199/Rapido_Bookings_Data_Analysis_Projects_SQL-Power_BI/blob/c80388d06380652473dd4962d680411f93e24418/Revenue.%20.jpg)
 
 **Cancelation**
-![image alt](https://github.com/shubhamwasnik199/SQL_Project-Monday_Coffee_Expantion-Data_Analysis/blob/b9c6cbfc8d456041b85820c0a0da3063198db750/1.png)
+![image alt](https://github.com/shubhamwasnik199/Rapido_Bookings_Data_Analysis_Projects_SQL-Power_BI/blob/c80388d06380652473dd4962d680411f93e24418/Cancelations.jpg
+)
 
 **Ratings**
-![image alt](https://github.com/shubhamwasnik199/SQL_Project-Monday_Coffee_Expantion-Data_Analysis/blob/b9c6cbfc8d456041b85820c0a0da3063198db750/1.png)
+![image alt](https://github.com/shubhamwasnik199/Rapido_Bookings_Data_Analysis_Projects_SQL-Power_BI/blob/c80388d06380652473dd4962d680411f93e24418/Ratings.jpg)
 
 
 
